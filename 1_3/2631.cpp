@@ -1,4 +1,4 @@
-// BOJ 2631
+// Baekjoon Online Judge 2631
 #include <iostream>
 #include <vector>
 #include <algorithm>  // for lower_bound

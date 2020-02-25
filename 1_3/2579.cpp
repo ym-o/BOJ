@@ -1,4 +1,4 @@
-// BOJ 2579
+// Baekjoon Online Judge 2579
 #include <iostream>
 #include <vector>
 #include <algorithm>  // for max

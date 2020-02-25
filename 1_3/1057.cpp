@@ -1,4 +1,4 @@
-// BOJ 1057
+// Baekjoon Online Judge 1057
 #include <iostream>
 using namespace std;
 

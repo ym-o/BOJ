@@ -1,4 +1,4 @@
-// BOJ 11058
+// Baekjoon Online Judge 11058
 #include <iostream>
 #include <vector>
 #include <algorithm>
